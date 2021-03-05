@@ -1,5 +1,5 @@
 source :gemcutter
-gem 'rails', '5.2.4.3'
+gem 'rails', '6.0.3.5'
 gem 'sqlite3-ruby', :require => 'sqlite3'
 gem 'facets', '2.8.4'
 gem 'rforce-raygao'
